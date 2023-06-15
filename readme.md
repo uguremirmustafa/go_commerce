@@ -1,1 +1,9 @@
-## Fiber CRUD api with sqlite and gorm
+## E-commerce API with Go an Fiber
+
+### Tech stack
+
+- Go
+- Fiber
+- GORM
+- Postgresql
+- JWT
